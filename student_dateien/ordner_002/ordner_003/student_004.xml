@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<HTL>
+    <Schuelerliste>
+        <SuS>
+            <id>0</id>
+            <Name>Ethan Hunt</Name>
+            <Jahr>1996</Jahr>
+        </SuS>
+        <SuS>
+            <id>0</id>
+            <Name>James Bond</Name>
+            <Jahr>1954</Jahr>
+        </SuS>
+        <SuS>
+            <id>0</id>
+            <Name>Sherlock Holmes</Name>
+            <Jahr>1939</Jahr>
+        </SuS>
+        <SuS>
+            <id>0</id>
+            <Name>Han Solo</Name>
+            <Jahr>1977</Jahr>
+        </SuS>
+        <SuS>
+            <id>0</id>
+            <Name>Chewbacca</Name>
+            <Jahr>1977</Jahr>
+        </SuS>
+        <SuS>
+            <id>0</id>
+            <Name>Cassian Andor</Name>
+            <Jahr>2016</Jahr>
+        </SuS>
+        <SuS>
+            <id>0</id>
+            <Name>Din Djarin (der Mandalorianer)</Name>
+            <Jahr>2019</Jahr>
+        </SuS>
+        <SuS>
+            <id>0</id>
+            <Name>Luke Skywalker</Name>
+            <Jahr>1977</Jahr>
+        </SuS>
+        <SuS>
+            <id>0</id>
+            <Name>Leia Organa</Name>
+            <Jahr>1977</Jahr>
+        </SuS>
+        <SuS>
+            <id>0</id>
+            <Name>Qui-Gon Jinn</Name>
+            <Jahr>1999</Jahr>
+        </SuS>
+        <SuS>
+            <id>0</id>
+            <Name>Captain Jack Sparrow</Name>
+            <Jahr>2003</Jahr>
+        </SuS>
+        <SuS>
+            <id>0</id>
+            <Name>William Turner</Name>
+            <Jahr>2003</Jahr>
+        </SuS>
+        <SuS>
+            <id>0</id>
+            <Name>Elizabeth Swann</Name>
+            <Jahr>2003</Jahr>
+        </SuS>
+        <SuS>
+            <id>0</id>
+            <Name>Frodo Beutlin</Name>
+            <Jahr>2001</Jahr>
+        </SuS>
+        <SuS>
+            <id>0</id>
+            <Name>Gandalf</Name>
+            <Jahr>2001</Jahr>
+        </SuS>
+        <SuS>
+            <id>0</id>
+            <Name>Legolas</Name>
+            <Jahr>2001</Jahr>
+        </SuS>
+    </Schuelerliste>
+</HTL>

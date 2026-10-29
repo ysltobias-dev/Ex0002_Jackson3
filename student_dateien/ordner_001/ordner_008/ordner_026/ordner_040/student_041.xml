@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<HTL>
+    <Schuelerliste>
+        <SuS>
+            <id>0</id>
+            <Name>Student 041-01</Name>
+            <Jahr>1989</Jahr>
+        </SuS>
+        <SuS>
+            <id>0</id>
+            <Name>Student 041-02</Name>
+            <Jahr>1990</Jahr>
+        </SuS>
+        <SuS>
+            <id>0</id>
+            <Name>Student 041-03</Name>
+            <Jahr>1991</Jahr>
+        </SuS>
+        <SuS>
+            <id>0</id>
+            <Name>Student 041-04</Name>
+            <Jahr>1992</Jahr>
+        </SuS>
+        <SuS>
+            <id>0</id>
+            <Name>Student 041-05</Name>
+            <Jahr>1993</Jahr>
+        </SuS>
+        <SuS>
+            <id>0</id>
+            <Name>Student 041-06</Name>
+            <Jahr>1994</Jahr>
+        </SuS>
+        <SuS>
+            <id>0</id>
+            <Name>Student 041-07</Name>
+            <Jahr>1995</Jahr>
+        </SuS>
+        <SuS>
+            <id>0</id>
+            <Name>Student 041-08</Name>
+            <Jahr>1996</Jahr>
+        </SuS>
+        <SuS>
+            <id>0</id>
+            <Name>Student 041-09</Name>
+            <Jahr>1997</Jahr>
+        </SuS>
+        <SuS>
+            <id>0</id>
+            <Name>Student 041-10</Name>
+            <Jahr>1998</Jahr>
+        </SuS>
+        <SuS>
+            <id>0</id>
+            <Name>Student 041-11</Name>
+            <Jahr>1999</Jahr>
+        </SuS>
+        <SuS>
+            <id>0</id>
+            <Name>Student 041-12</Name>
+            <Jahr>2000</Jahr>
+        </SuS>
+        <SuS>
+            <id>0</id>
+            <Name>Student 041-13</Name>
+            <Jahr>2001</Jahr>
+        </SuS>
+        <SuS>
+            <id>0</id>
+            <Name>Student 041-14</Name>
+            <Jahr>2002</Jahr>
+        </SuS>
+        <SuS>
+            <id>0</id>
+            <Name>Student 041-15</Name>
+            <Jahr>2003</Jahr>
+        </SuS>
+        <SuS>
+            <id>0</id>
+            <Name>Student 041-16</Name>
+            <Jahr>2004</Jahr>
+        </SuS>
+    </Schuelerliste>
+</HTL>
